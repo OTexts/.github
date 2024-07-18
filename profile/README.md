@@ -1,6 +1,6 @@
-# OTexts: Online, open-access textbooks
+# [OTexts: Online, open-access textbooks](https://OTexts.com)
 
-OTexts is an online textbook publisher. Our books are freely available to students everywhere, whether for self-learning or as part of a university courses.
+[OTexts](https://OTexts.com) is an online textbook publisher. Our books are freely available to students everywhere, whether for self-learning or as part of a university courses.
 
 ## Forecasting: principles and practice
 By Rob J Hyndman and George Athanasopoulos
