@@ -11,9 +11,11 @@ A comprehensive introduction to the latest forecasting methods. Examples use R w
   <tr>
     <td width="40%"><a href="https://OTexts.com/fpp2"><img src="https://otexts.com/img/fpp2_cover.jpg" width=100%></a></td>
     <td width="40%"><a href="https://OTexts.com/fpp3"><img src="https://otexts.com/img/fpp3_cover.jpg" width=100%></a></td>
+    <td width="40%"><a href="https://OTexts.com/fpppy"><img src="https://otexts.com/fpppy/figs/fpppy_front_cover.jpg" width=100%></a></td>
   </tr>
   <tr>
     <td>2nd edition using the forecast package</td>
     <td>3rd edition using the tsibble, feasts and fable packages</td>
+    <td>Python edition</td>
   </tr>
 </table>
