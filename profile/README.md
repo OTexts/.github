@@ -5,7 +5,7 @@
 ## Forecasting: principles and practice
 By Rob J Hyndman and George Athanasopoulos
 
-A comprehensive introduction to the latest forecasting methods. Examples use R with many data sets taken from the authors' own consulting experience. 
+A comprehensive introduction to the latest forecasting methods. Examples use R or Python with many data sets taken from the authors' own consulting experience. 
 
 <table>
   <tr>
