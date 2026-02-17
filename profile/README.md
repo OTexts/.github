@@ -1,11 +1,11 @@
 # [OTexts: Online, open-access textbooks](https://OTexts.com)
 
-[OTexts](https://OTexts.com) is an online textbook publisher. Our books are freely available to students everywhere, whether for self-learning or as part of a university courses.
+[OTexts](https://OTexts.com) is an online textbook publisher. Our books are freely available to students everywhere, whether for self-learning or as part of a university courses. You can [sponsor OTexts here](https://github.com/sponsors/robjhyndman).
 
 ## Forecasting: principles and practice
 By Rob J Hyndman and George Athanasopoulos
 
-A comprehensive introduction to the latest forecasting methods. Examples use R or Python with many data sets taken from the authors' own consulting experience. 
+A comprehensive introduction to the latest forecasting methods. Examples use R or Python with many data sets taken from the authors' own consulting experience.
 
 <table>
   <tr>
